@@ -1,29 +1,38 @@
 # 💱 Currency Converter App
 
-A simple **Java-based currency converter** application using **Advanced Java concepts** like **Swing** for GUI development.
+A simple **Java-based currency converter** application built using **Advanced Java** concepts like **Swing** for GUI development.
 
 ---
 
 ## 🚀 Features
 
-- 🔄 Convert between multiple currencies
-- 🖱️ Intuitive GUI with dropdown menus for currency selection
-- ⚙️ Real-time conversion using hardcoded exchange rates
+- 🔄 Convert between multiple currencies (USD, EUR, INR, GBP, etc.)
+- 🖱️ Intuitive GUI with dropdown menus for selecting currencies
+- ⚙️ Real-time conversion using **hardcoded exchange rates**
+- ✅ Input validation for user-friendly interaction
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
-- 🎨 **Java Swing** – for the user interface
-- 🧱 **Java AWT** – for layout management
-- 🧩 **Event Handling** – for button actions
+- 🎨 **Java Swing** – For building the graphical user interface  
+- 🧱 **Java AWT** – For layout and component management  
+- ⚡ **Event Handling** – For button click actions and logic execution
 
 ---
 
-## 📦 How to Run
+## 📸 Screenshots
 
-1. Clone or download the repository
-2. Compile and run the Java file:
-   ```bash
-   javac CurrencyConverter.java
-   java CurrencyConverter
+(ss1.png)
+(ss2.png)
+(ss3.png)
+
+
+
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/DEEPIKA020605/Java_project.git
